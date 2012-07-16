@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="sortable-stack.xsl"?>
+<sortable-stack description="e.g. Arrange the objects in ascending order">
+	<item id="1" order="2">
+		<note>text</note>
+		<image>data/ref</image>
+	</item>
+	<item id="2" order="5">
+		<note>text</note>
+		<svg>[[CDATA ......]]</svg>
+	</item>
+	<item id="3" order="4">
+		<note>text</note>
+		<image>data/ref</image>
+	</item>
+	<item id="4" order="3">
+		<note>text</note>
+		<image>data/ref</image>
+	</item>
+	<item id="5" order="1">
+		<note>text</note>
+		<image>data/ref</image>
+	</item>
+</sortable-stack>
