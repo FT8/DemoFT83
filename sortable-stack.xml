@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" href="sortable-stack.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/FT8/DemoFT83/sortable-stack.xsl"?>
 <sortable-stack description="e.g. Arrange the objects in ascending order">
 	<item id="1" order="2">
 		<note>text</note>
